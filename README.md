@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zainab Athar</h1>
-<h3 align="center">Software Engineer</h3>
-
-
-- 📫 How to reach me **zathar.bese22seecs@seecs.edu.pk**
+<h3 align="center">Software Engineer zathar.bese22seecs@seecs.edu.pk</h3>
+<h3 align="center">zathar.bese22seecs@seecs.edu.pk</h3>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
