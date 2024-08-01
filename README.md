@@ -44,4 +44,4 @@
 <hr width="520px">
 
 <h3> 📈 Github Stats : </h3>
-<p><img align="center" width="800" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainabathar&show_icons=true&locale=en&layout=compact&theme=dark" alt="zainabathar" /></p>
+<p><img align="center" width="600" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainabathar&show_icons=true&locale=en&layout=compact&color=5" alt="zainabathar" /></p>
