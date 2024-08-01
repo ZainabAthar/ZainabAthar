@@ -3,7 +3,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ridashafqaat/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=%20A%20Passionate%20Software%20Engineer;%20Currently%20working%on%20GenAI;%20Always%20learning%20new%20things;" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=%40A%20Passionate%20Software%20Engineer;%40Currently%20working%on%20GenAI;%40Always%20learning%20new%20things;" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zainabathar&label=Profile%20views&color=b60e21&style=flat" alt="zainabathar" /> </p>
@@ -21,7 +21,7 @@
 <a href="https://medium.com/@zathar.bese22seecs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zathar.bese22seecs" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/zathar_bese22se1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zathar_bese22se1" height="30" width="40" /></a>
 </p>
-<hr width="150px">
+<hr width="140px">
 
 <h3 align="left">
   <img style="vertical-align: middle;"/>⚙️ Languages and Tools:
@@ -41,9 +41,7 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
-<hr width="500px">
+<hr width="520px">
 
 <h3> 📈 Github Stats : </h3>
-<p align="center">
-  <img width="800" src="https://github-readme-stats.vercel.app/api?username=zainabathar&show_icons=true&theme=radical&bg_color=00000000&title_color=00aaff&text_color=ffffff&icon_color=00aaff" alt="zainabathar" />
-</p>
+<p><img align="center" width="800" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainabathar&show_icons=true&locale=en&layout=compact&theme=dark" alt="zainabathar" /></p>
