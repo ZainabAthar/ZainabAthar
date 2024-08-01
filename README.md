@@ -3,7 +3,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ridashafqaat/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=%40A%20Passionate%20Software%20Engineer;%40Currently%20working%on%20GenAI;%40Always%20learning%20new%20things;" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=%20%20%20A%20Passionate%20Software%20Engineer;%20%20%20Currently%20working%20on%20GenAI;%20%20%20Always%20learning%20new%20things;" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zainabathar&label=Profile%20views&color=b60e21&style=flat" alt="zainabathar" /> </p>
