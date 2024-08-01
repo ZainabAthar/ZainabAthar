@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Zainab Athar</h1>
 <h3 align="center">
-  <img src="" alt="I am a Passionate Software Engineer"/>
+  <img src="https://www.canva.com/design/DAGMnkjSzpE/0KxMTUREc3fHlQMmuwXDDg/edit?utm_content=DAGMnkjSzpE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="I am a Passionate Software Engineer"/>
 </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zainabathar&label=Profile%20views&color=b60e21&style=flat" alt="zainabathar" /> </p>
