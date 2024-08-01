@@ -14,7 +14,7 @@
 <a href="https://medium.com/@zathar.bese22seecs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zathar.bese22seecs" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/zathar_bese22se1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zathar_bese22se1" height="30" width="40" /></a>
 </p>
-<hr style="border: 1px solid gray; width: 40%;"/>
+<hr style="border: 1px solid gray; width: 20%;"/>
 <h3 align="left">
   <img src="https://img.icons8.com/material-outlined/24/000000/gear.png" alt="gear-icon" style="vertical-align: middle;"/> Languages and Tools:
 </h3>
@@ -37,4 +37,4 @@
 <h3 align="left">
   <img src="https://img.icons8.com/material-outlined/24/000000/github.png" alt="github-icon" style="vertical-align: middle;"/> GitHub Stats:
 </h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainabathar&show_icons=true&locale=en&layout=compact&theme=dark" alt="zainabathar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainabathar&show_icons=true&locale=en&layout=compact&theme=dark-blue" alt="zainabathar" /></p>
