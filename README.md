@@ -1,5 +1,7 @@
+<img align="centre" alt ="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fdatatobiz%2Fwhat-is-an-ai-question-generator-how-to-use-it-30de1f70d64&psig=AOvVaw0gb-bwo0Hix236DzNmJUvj&ust=1722606512473000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCz47v304cDFQAAAAAdAAAAABAE">
 <h1 align="center">Hi 👋, I'm Zainab Athar</h1>
 <h3 align="center">Software Engineer</h3>
+<img align="centre" alt ="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fridashafqaat&psig=AOvVaw0TEIyxXX4hAw7CBkPCITPF&ust=1722606310369000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjfxd7204cDFQAAAAAdAAAAABAE">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
