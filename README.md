@@ -1,7 +1,10 @@
-<img align="center" alt="coding" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHe7ViA1-_ASaRvhB7srYpZ97nemMsa44YwX_coUALBijZ9G5uZkvSPsFPHRYKvLOvxyc&usqp=CAU">
-
-<h1 align="center">Hi 👋, I'm Zainab Athar</h1>
-<h2 align="center">A Passionate Software Engineer</h2>
+![logo](https://github.com/ridashafqaat/ridashafqaat/blob/main/banner%20top.gif)
+<h1 align="center">Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"/>, I'm Zainab Athar </h1> 
+<br/>
+<p align="center">
+  <a href="https://github.com/ridashafqaat/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=A%20Passionate%20Software%20Engineer;Currently%20working%on%20GenAI;Always%20learning%20new%20things;" /></a>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zainabathar&label=Profile%20views&color=b60e21&style=flat" alt="zainabathar" /> </p>
 
@@ -18,9 +21,10 @@
 <a href="https://medium.com/@zathar.bese22seecs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zathar.bese22seecs" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/zathar_bese22se1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zathar_bese22se1" height="30" width="40" /></a>
 </p>
-<hr style="border: 1px solid gray; width: 12;"/>
+<hr width="190px">
+
 <h3 align="left">
-  <img src="https://img.icons8.com/material-outlined/24/000000/gear.png" style="vertical-align: middle;"/>⚙️ Languages and Tools:
+  <img style="vertical-align: middle;"/>⚙️ Languages and Tools:
 </h3>
 
 <p align="left">
@@ -37,8 +41,11 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
-<hr style="border: 1px solid gray; width:12;"/>
-<h3 align="left">
-  <img src="https://img.icons8.com/material-outlined/24/000000/github.png" alt="github-icon" style="vertical-align: middle;"/>GitHub Stats:
-</h3>
-<p><img align="center" widht=20 src="https://github-readme-stats.vercel.app/api/top-langs?username=zainabathar&show_icons=true&locale=en&layout=compact&theme=dark" alt="zainabathar" /></p>
+<hr width="270px">
+
+<h3> 📈 Github Stats : </h3>
+<p align="center">
+<a href="https://github.com/ridashafqaat" target="_blank">
+  <img height="180em" rc="https://github-readme-stats.vercel.app/api?username=zainabathar&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
