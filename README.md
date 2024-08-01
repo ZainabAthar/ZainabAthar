@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Zainab Athar</h1>
-<h3 align="center">Software Engineer zathar.bese22seecs@seecs.edu.pk</h3>
+<h3 align="center">Software Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zainab-athar-21a088254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zainab-athar-21a088254/" height="30" width="40" /></a>
 <a href="https://medium.com/@zathar.bese22seecs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zathar.bese22seecs" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/zathar_bese22se1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zathar_bese22se1" height="30" width="40" /></a>
-<a href="zathar.bese22seecs@seecs.edu.pk" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" height="30" width="40" /></a>
+<a href="k[zathar.bese22seecs@seecs.edu.p](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="zathar.bese22seecs@seecs.edu.pk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
