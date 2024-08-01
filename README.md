@@ -3,7 +3,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ridashafqaat/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=A%20Passionate%20Software%20Engineer;Currently%20working%on%20GenAI;Always%20learning%20new%20things;" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=%20A%20Passionate%20Software%20Engineer;%20Currently%20working%on%20GenAI;%20Always%20learning%20new%20things;" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zainabathar&label=Profile%20views&color=b60e21&style=flat" alt="zainabathar" /> </p>
@@ -45,7 +45,5 @@
 
 <h3> 📈 Github Stats : </h3>
 <p align="center">
-<a href="https://github.com/ridashafqaat" target="_blank">
-  <img height="180em" rc="https://github-readme-stats.vercel.app/api?username=zainabathar&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img width="800" src="https://github-readme-stats.vercel.app/api?username=zainabathar&show_icons=true&theme=radical&bg_color=00000000&title_color=00aaff&text_color=ffffff&icon_color=00aaff" alt="zainabathar" />
 </p>
