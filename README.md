@@ -6,7 +6,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zainabathar&label=Profile%20views&color=b60e21&style=flat" alt="zainabathar" /> </p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
-
+- 💬 Ask me about **LangChain**
+- 📫 How to reach me **zathar.bese22seecs@seecs.edu.pk**
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -37,4 +38,4 @@
 <h3 align="left">
   <img src="https://img.icons8.com/material-outlined/24/000000/github.png" alt="github-icon" style="vertical-align: middle;"/> GitHub Stats:
 </h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainabathar&show_icons=true&locale=en&layout=compact&theme=dark-blue" alt="zainabathar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainabathar&show_icons=true&locale=en&layout=compact&theme=dark" alt="zainabathar" /></p>
