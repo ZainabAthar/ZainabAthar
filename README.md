@@ -8,17 +8,17 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 <h3 align="left">Connect with me:</h3>
-<hr style="border: 1px solid gray; width: 50%;"/>
+
 <p align="left">
 <a href="https://linkedin.com/in/zainab-athar-21a088254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zainab-athar-21a088254/" height="30" width="40" /></a>
 <a href="https://medium.com/@zathar.bese22seecs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zathar.bese22seecs" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/zathar_bese22se1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zathar_bese22se1" height="30" width="40" /></a>
 </p>
-
+<hr style="border: 1px solid gray; width: 40%;"/>
 <h3 align="left">
   <img src="https://img.icons8.com/material-outlined/24/000000/gear.png" alt="gear-icon" style="vertical-align: middle;"/> Languages and Tools:
 </h3>
-<hr style="border: 1px solid gray; width: 50%;"/>
+
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -33,7 +33,7 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
-
+<hr style="border: 1px solid gray; width: 40%;"/>
 <h3 align="left">
   <img src="https://img.icons8.com/material-outlined/24/000000/github.png" alt="github-icon" style="vertical-align: middle;"/> GitHub Stats:
 </h3>
