@@ -20,7 +20,7 @@
 </p>
 <hr style="border: 1px solid gray; width: 12;"/>
 <h3 align="left">
-  <img src="https://img.icons8.com/material-outlined/24/000000/gear.png" alt="gear-icon" style="vertical-align: middle;"/>⚙️ Languages and Tools:
+  <img src="https://img.icons8.com/material-outlined/24/000000/gear.png" style="vertical-align: middle;"/>⚙️ Languages and Tools:
 </h3>
 
 <p align="left">
@@ -39,6 +39,6 @@
 </p>
 <hr style="border: 1px solid gray; width: 40;"/>
 <h3 align="left">
-  <img src="https://img.icons8.com/material-outlined/24/000000/github.png" alt="github-icon" style="vertical-align: middle;"/>⚙️ GitHub Stats:
+  <img src="https://img.icons8.com/material-outlined/24/000000/github.png" alt="github-icon" style="vertical-align: middle;"/>GitHub Stats:
 </h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainabathar&show_icons=true&locale=en&layout=compact&theme=dark" alt="zainabathar" /></p>
