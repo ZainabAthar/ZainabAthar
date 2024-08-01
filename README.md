@@ -6,8 +6,18 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zainabathar&label=Profile%20views&color=b60e21&style=flat" alt="zainabathar" /> </p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+- 🔭 I’m currently working on **rh**
+
+- 🌱 I’m currently learning **hhd**
+
+- 👯 I’m looking to collaborate on **hdf**
+
+- 🤝 I’m looking for help with **dh**
+
 - 💬 Ask me about **LangChain**
+
 - 📫 How to reach me **zathar.bese22seecs@seecs.edu.pk**
+- 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
