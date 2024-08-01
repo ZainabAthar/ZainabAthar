@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **GenAI**
 
 - 📫 How to reach me **zathar.bese22seecs@seecs.edu.pk**
-- 
+
 <h3 align="left">⚙️ Connect with me:</h3>
 
 <p align="left">
@@ -37,8 +37,8 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
-<hr style="border: 1px solid gray; width: 40;"/>
+<hr style="border: 1px solid gray; width:12;"/>
 <h3 align="left">
   <img src="https://img.icons8.com/material-outlined/24/000000/github.png" alt="github-icon" style="vertical-align: middle;"/>GitHub Stats:
 </h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainabathar&show_icons=true&locale=en&layout=compact&theme=dark" alt="zainabathar" /></p>
+<p><img align="center" widht=20 src="https://github-readme-stats.vercel.app/api/top-langs?username=zainabathar&show_icons=true&locale=en&layout=compact&theme=dark" alt="zainabathar" /></p>
