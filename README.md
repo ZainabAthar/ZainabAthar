@@ -1,10 +1,15 @@
 ![logo](https://github.com/ridashafqaat/ridashafqaat/blob/main/banner%20top.gif)
-<h1 align="center">Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"/>, I'm Zainab Athar </h1> 
+
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"/>, I'm Zainab Athar</h1> 
+
 <br/>
+
 <p align="center">
   <a href="https://github.com/ridashafqaat/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=%20    20A%20Passionate%20Software%20Engineer;%20    %20Currently%20working%20on%20GenAI;%20    %20Always%20learning%20new%20things;" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=A%20Passionate%20Software%20Engineer;Currently%20working%20on%20GenAI;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  </a>
 </p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zainabathar&label=Profile%20views&color=b60e21&style=flat" alt="zainabathar" /> </p>
 
