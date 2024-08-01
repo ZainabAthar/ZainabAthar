@@ -1,9 +1,7 @@
 <img align="center" alt="coding" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHe7ViA1-_ASaRvhB7srYpZ97nemMsa44YwX_coUALBijZ9G5uZkvSPsFPHRYKvLOvxyc&usqp=CAU">
 
 <h1 align="center">Hi 👋, I'm Zainab Athar</h1>
-<h3 align="center">
-  <img src="https://www.canva.com/design/DAGMnkjSzpE/0KxMTUREc3fHlQMmuwXDDg/edit?utm_content=DAGMnkjSzpE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="I am a Passionate Software Engineer"/>
-</h3>
+<h1 align="center">A Passionate Software Engineer</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zainabathar&label=Profile%20views&color=b60e21&style=flat" alt="zainabathar" /> </p>
 
