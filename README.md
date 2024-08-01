@@ -1,7 +1,7 @@
 <img align="centre" alt ="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1280/1*x27SCvHAo5Ehb6wE-g7Oyw.gif">
 <h1 align="center">Hi 👋, I'm Zainab Athar</h1>
 <h3 align="center">Software Engineer</h3>
-<img align="centre" alt ="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<img align="right" alt ="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
