@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **GenAI**
 
-- 📫 How to reach me **zathar.bese22seecs@seecs.edu.pk**
+- 📫 **zathar.bese22seecs@seecs.edu.pk**
 
 <h3 align="left">⚙️ Connect with me:</h3>
 
